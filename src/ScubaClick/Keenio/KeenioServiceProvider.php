@@ -34,7 +34,7 @@ class KeenioServiceProvider extends ServiceProvider
 		 */
         $this->app['keenio'] = $this->app->share(function($app)
         {
-        	$config = $app['config']->get('keenio');
+        	$config = $app['config']->get('keenio::config');
 
 			return KeenIOClient::factory([
 			    'projectId' => $config['project_id'],

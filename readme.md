@@ -36,9 +36,9 @@ It is recommended to stick your API keys into environmental variables and refere
 Documentation
 -------------
 Read the docs of the underlying library:
-[Docs](https://keen.io/docs)
-[GitHub](https://github.com/keenlabs/KeenClient-PHP)
-[API Reference](https://keen.io/docs/api/reference)
+ * [Docs](https://keen.io/docs)
+ * [GitHub](https://github.com/keenlabs/KeenClient-PHP)
+ * [API Reference](https://keen.io/docs/api/reference)
 
 License
 -------
