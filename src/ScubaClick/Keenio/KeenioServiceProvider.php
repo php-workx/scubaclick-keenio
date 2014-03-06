@@ -5,8 +5,6 @@ use Illuminate\Support\ServiceProvider;
 
 class KeenioServiceProvider extends ServiceProvider
 {
-	const VERSION = '1.0.0';
-
 	/**
 	 * Indicates if loading of the provider is deferred.
 	 *

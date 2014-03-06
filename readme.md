@@ -5,7 +5,7 @@ Service provider and facade for Laraval to integrate the [Keen.io](https://keen.
 
 Stable Version
 --------------
-v1.0.0
+v1.0.1
 
 Installation
 ------------
