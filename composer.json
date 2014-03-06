@@ -1,5 +1,6 @@
 {
     "name": "scubaclick/keenio",
+    "description": "Keen.io integration into Laravel 4",
     "keywords": ["keen.io", "analytics", "laravel"],
     "homepage": "https://github.com/ScubaClick/scubaclick-keenio",
     "license": "MIT",
