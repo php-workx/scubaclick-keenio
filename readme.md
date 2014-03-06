@@ -5,14 +5,14 @@ Service provider and facade for Laraval to integrate the [Keen.io](https://keen.
 
 Stable Version
 --------------
-v1.0
+v1.0.0
 
 Installation
 ------------
 
 Install by adding the following to the require block in composer.json:
 ```
-"scubaclick/keenio": "1.*"
+"scubaclick/keenio": "1.0.*"
 ```
 
 Then run `composer update`.
